@@ -43,7 +43,9 @@ To see the MATLAB/Simulink simulation in action under various irradiance scenari
 
 ## 💻 Get the MATLAB/Simulink Model
 The complete Simulink `.slx` model and associated project files are available for download.
+
 [![Purchase Model](https://img.shields.io/badge/Purchase_Model-SKU_0104-238636?style=for-the-badge)](https://www.lmssolution.net.in/product-page/pv-system-with-battery-storage-using-bidirectional-dc-dc-converter)
+
 
 🛒 **[Purchase and Download the Model Here (SKU: 0104)](https://www.lmssolution.net.in/product-page/pv-system-with-battery-storage-using-bidirectional-dc-dc-converter)**
 
